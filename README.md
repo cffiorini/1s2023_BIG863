@@ -1,8 +1,8 @@
-# *Basic Python Programming for Ecologist*
+# *Basic Python Programming for Ecologists*
 
 ## Responsáveis
 
-Dra. Cecilia F. Fiori
+Dra. Cecilia F. Fiorini
 
 Prof. Dr. Fernando A. O. Silveira
 
