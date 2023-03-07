@@ -9,37 +9,23 @@ Prof. Dr. Fernando A. O. Silveira
 ## Calendário
 
 
-| Data | Hora | Tema |
-
-| 15 de março | 13:30 BRT às 15:30 BRT | Introdução | 
-
-| 22 de março | 13h30 BRT às 15h30 BRT | Tipos e formatos de dados | 
-
-| 29 de março | 13h30 BRT às 15h30 BRT | Tipos e formatos de dados | 
-
-| 5 de abril | 13h30 BRT às 15h30 BRT | Controle de fluxo | 
-
-| 12 de abril | 13h30 BRT às 15h30 BRT | Controle de fluxo | 
-
-| 19 de abril | 13h30 BRT às 15h30 BRT | Funções | 
-
-| 26 de abril | 13h30 BRT às 15h30 BRT | Funções | 
-
-| 3 de maio | 13:30 BRT às 15:30 BRT | Algorítmos | 
-
-| 10 de maio | 13:30 BRT às 15:30 BRT | Algorítmos | 
-
-| 17 de maio | 13h30 BRT às 15h30 BRT | Recursão | 
-
-| 24 de maio | 13:30 BRT às 15:30 BRT | Expressões regulares | 
-
-| 31 de maio | 13h30 BRT às 15h30 BRT | SQL | 
-
-| 7 de junho | 13:30 BRT às 15:30 BRT | Visualização de dados | 
-
-| 14 de junho | 13h30 BRT às 15h30 BRT | Visualização de Dados | 
-
-| 21 de junho | 13h30 BRT às 15h30 BRT | Finalização | 
+| Data        | Hora                   | Tema                      |
+| ----------- | ---------------------- | ------------------------- |
+| 15 de março | 13:30 BRT às 15:30 BRT | Introdução                | 
+| 22 de março | 13:30 BRT às 15:30 BRT | Tipos e formatos de dados | 
+| 29 de março | 13:30 BRT às 15:30 BRT | Tipos e formatos de dados | 
+| 5 de abril  | 13:30 BRT às 15:30 BRT | Controle de fluxo         | 
+| 12 de abril | 13:30 BRT às 15:30 BRT | Controle de fluxo         | 
+| 19 de abril | 13:30 BRT às 15:30 BRT | Funções                   | 
+| 26 de abril | 13:30 BRT às 15:30 BRT | Funções                   | 
+| 3 de maio   | 13:30 BRT às 15:30 BRT | Algorítmos                | 
+| 10 de maio  | 13:30 BRT às 15:30 BRT | Algorítmos                | 
+| 17 de maio  | 13:30 BRT às 15:30 BRT | Recursão                  | 
+| 24 de maio  | 13:30 BRT às 15:30 BRT | Expressões regulares      | 
+| 31 de maio  | 13:30 BRT às 15:30 BRT | SQL                       | 
+| 7 de junho  | 13:30 BRT às 15:30 BRT | Visualização de dados     | 
+| 14 de junho | 13:30 BRT às 15:30 BRT | Visualização de Dados     | 
+| 21 de junho | 13:30 BRT às 15:30 BRT | Finalização               | 
 
 
 
