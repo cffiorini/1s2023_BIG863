@@ -31,21 +31,21 @@ Prof. Dr. Fernando A. O. Silveira
 
 ## Material Didático
 
-* [Aula 1](aula01.pdf)
-* [Aula 2](aula02.pdf)
-* [Aula 3](aula03.pdf)
-* [Aula 4](aula04.pdf)
-* [Aula 5](aula05.pdf)
-* [Aula 6](aula06.pdf)
-* [Aula 7](aula07.pdf)
-* [Aula 8](aula08.pdf)
-* [Aula 9](aula09.pdf)
-* [Aula 10](aula10.pdf)
-* [Aula 11](aula11.pdf)
-* [Aula 12](aula12.pdf)
-* [Aula 13](aula13.pdf)
-* [Aula 14](aula14.pdf)
-* [Aula 15](aula15.pdf)
+* [Aula 1](UFMG_BIG863_aula01.pdf)
+* [Aula 2](UFMG_BIG863_aula02.pdf)
+* [Aula 3](UFMG_BIG863_aula03.pdf)
+* [Aula 4](UFMG_BIG863_aula04.pdf)
+* [Aula 5](UFMG_BIG863_aula05.pdf)
+* [Aula 6](UFMG_BIG863_aula06.pdf)
+* [Aula 7](UFMG_BIG863_aula07.pdf)
+* [Aula 8](UFMG_BIG863_aula08.pdf)
+* [Aula 9](UFMG_BIG863_aula09.pdf)
+* [Aula 10](UFMG_BIG863_aula10.pdf)
+* [Aula 11](UFMG_BIG863_aula11.pdf)
+* [Aula 12](UFMG_BIG863_aula12.pdf)
+* [Aula 13](UFMG_BIG863_aula13.pdf)
+* [Aula 14](UFMG_BIG863_aula14.pdf)
+* [Aula 15](UFMG_BIG863_aula15.pdf)
 
 
 ## Links úteis
