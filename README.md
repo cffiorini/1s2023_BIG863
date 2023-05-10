@@ -24,7 +24,7 @@ Prof. Dr. Fernando A. O. Silveira
 | 24 de maio  | 13:30 BRT às 15:30 BRT | Expressões regulares      | 
 | 31 de maio  | 13:30 BRT às 15:30 BRT | Expressões regulares      | 
 | 7 de junho  | 13:30 BRT às 15:30 BRT | SQL                       | 
-| 14 de junho | 13:30 BRT às 15:30 BRT | Visualização de Dados     | 
+| 14 de junho | 13:30 BRT às 15:30 BRT | Visualização de dados     | 
 | 21 de junho | 13:30 BRT às 15:30 BRT | Finalização               | 
 
 
